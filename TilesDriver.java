@@ -5,9 +5,6 @@ import java.lang.System;
 /**
  * 8 Tiles puzzle, implemented as both text-based and graphical interfaces.
  *
- * Created 9/30/2016 for UIC CS 342, Software Design
- * System: IntelliJ Java IDE on Lenovo Thinkpad Yoga
- *
  * Driver class to interact with user and trigger automatic search mode if desired.
  */
 public class TilesDriver
