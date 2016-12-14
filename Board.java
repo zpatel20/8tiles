@@ -1,9 +1,7 @@
 import java.util.ArrayList;
 import java.util.Random;
 
-/**
- * Created by reed on 9/30/2016.
- */
+
 
 public class Board {
     private int board[];         // Array of board pieces
