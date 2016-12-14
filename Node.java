@@ -1,5 +1,4 @@
 /**
- * Created by reed on 10/1/2016.
  *
  * Graph Node stores a Board as well as a parent pointer
  */
